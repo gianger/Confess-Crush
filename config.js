@@ -4,7 +4,7 @@ const CONFIG = {
     introDesc: `Trái đất vốn lạ thường
     Mà sao anh cứ đi nhầm đường
     Lạc vào tim anh lẻ loi
-    Đằng sau chữ yêu đây là thương`,
+    Đằng sau chữ yêu đây là thương',
     btnIntro: '^^HiHi^^',
     title: 'Chọn đi',
     desc: 'Có muốn làm ny em không ',
